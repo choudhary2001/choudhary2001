@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Divakar Kumar choudhary</h1>
-<h3 align="center">An enthusiastic Web developer</h3>
+<h3 align="center">An Enthusiastic Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=choudhary2001&label=Profile%20views&color=0e75b6&style=flat" alt="choudhary2001" /> </p>
 
