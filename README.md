@@ -1,69 +1,80 @@
-<h1 align="center">Hey 👋, I'm Divakar Kumar Choudhary</h1>
-<h3 align="center">An Enthusiastic Web Developer | Python & Django Learner</h3>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hey%20👋,%20I'm%20Divakar%20Kumar%20Choudhary&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=choudhary2001&label=Profile%20views&color=0e75b6&style=flat" alt="choudhary2001" />
-</p>
+<h3 align="center">🚀 An Enthusiastic Web Developer | Lifelong Learner | Problem Solver</h3>
 
 ---
 
-### 🌱 Currently Learning
-- **Web Development** (Frontend + Backend)
-- Deepening my skills in **Python**, **Django**, and **REST APIs**
-- Exploring **Firebase** for backend-as-a-service
+## 👨‍💻 About Me  
 
-### 📫 Get in Touch
-📧 **Email**: [divakarkumarchy2001@gmail.com](mailto:divakarkumarchy2001@gmail.com)
+- 🌱 Currently learning **Full-Stack Web Development** (Django + React)  
+- 💡 Passionate about **building scalable apps, solving problems, and exploring new technologies**  
+- 🛠️ Skilled in **Python, Django, React, C++, Firebase, Git**  
+- 🎯 Goal: Becoming an **expert full-stack developer** and working on impactful projects  
+- 📫 Reach me at **divakarkumarchy2001@gmail.com**  
 
 ---
 
-### 🔗 Connect With Me
+## 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/divakar-kumar-choudhary/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:divakarkumarchy2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/divakar_chy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="36" width="40" />
+    <img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 💻 Languages & Tools
+## 🛠️ Languages & Tools  
+
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/python--v2.png" alt="Python" width="48" />
-  </a>
-  <a href="https://docs.djangoproject.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/django.png" alt="Django" width="48" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" />
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=choudhary2001&show_icons=true&theme=react&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudhary2001&layout=compact&theme=react&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=choudhary2001&theme=react" alt="streak stats"/>
 </p>
 
----
-
-### 🔥 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=choudhary2001&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=choudhary2001&show_icons=true&theme=react&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudhary2001&layout=compact&theme=react&count_private=true" height="180"/>
 </p>
 
 ---
 
-> 💡 **“Code is like humor. When you have to explain it, it’s bad.”**  
-> — *Cory House*
+## ⚡ Recent Activity Graph  
+
+[![Divakar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=choudhary2001&theme=react-dark)](https://github.com/choudhary2001/github-readme-activity-graph)
+
+---
+
+## ✨ Fun Facts  
+
+- 🎵 I love **listening to music** while coding  
+- 🏏 Big fan of **cricket & sports**  
+- 🧩 Enjoy solving **coding challenges & puzzles**  
+- 🌍 Exploring the intersection of **technology and innovation**  
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
